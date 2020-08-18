@@ -15,12 +15,12 @@ sidebar:
     email: raicik.zach@gmail.com
     phone: 860 593 0476
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: zakraicik
+    github: zakraicik
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,9 +28,6 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
 
       - idiom: Spanish
         level: Professional
@@ -55,9 +52,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Masters, Computer Science
+      university: University of Pennsylvania
+      time: 2020 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelors, Finance & Actuarial Sciencies
+      university: Bentley University
+      time: 2009 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,9 +75,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Director of Data Science
+      time: 2018 - Present
+      company: John Hancock Financial, Boston
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
