@@ -52,7 +52,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Masters, Computer Science
+    - degree: MS, Computer Science
       university: University of Pennsylvania
       time: 2020 - 2022
       details: |
@@ -63,7 +63,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Bachelors, Finance & Actuarial Sciencies
+    - degree: BS, Finance
       university: Bentley University
       time: 2009 - 2013
       details: |
