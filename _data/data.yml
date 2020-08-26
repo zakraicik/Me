@@ -88,28 +88,30 @@ experiences:
       time: 2018 - Present
       company: John Hancock Financial, Boston
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Member of team focused on using data science to modernize underwriting in life insurance
+        globally. Primarily focused on model development and evaluation.
+          - Use Python and common modeling packages such as SkLearn and h2o.AI to develop and
+            test machine learning models to predict mortality risk of insurance applicants using
+            electronic health records (EHR) and other data sources. Development of these models enables company to
+            underwrite more customers electronically, which significantly reduces the amount of time
+            it takes an insurance applicant to obtain a policy.
+          - Advocate for improvements in our team’s tools and processes to improve efficiency and
+            effectiveness.
+          - Maintain deep understanding of John Hancock’s data assets and leverage SQL in order to
+            quickly and efficiently pull relevant information for modeling.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Member of team focused on crea#ng business intelligence environment for strategic insurance
+        product initiatives. Primarily focused on gathering and evalua#ng data to generate insights.
+          - Used Tableau to create interacPve dashboards that automatically provided senior leaders
+            with key performance metrics for multiple initiatives daily. This enabled leaders to make
+            agile and informed decisions.
+          - Leverage SQL and Python to automate extraction, transformation and loading of data
+            needed to power afformentioned Tableau dashboards. Previously, this
+            information was only available upon request and difficult to obtain.
+          - Multiple titles during tenure within department (each of increasing responsibility).
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
