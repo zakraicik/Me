@@ -45,16 +45,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Motivated data science professional passionate about using analytics to support and influence business strategy. Significant experience
+        working with large datasets to generate insights and develop machine learning models. Comfortable presenting complex topics to a wide
+        range of audiences. Proficient in a variety of technical tools including SQL, Python, R, Tableau and MicrosoF Office. Recent Fellow of the
+        Society of Actuaries. Pursuing advanced degree in Computer Science from the University of Pennsylvania
 education:
     - degree: MS, Computer Science
       university: University of Pennsylvania
-      time: 2020 - 2022
+      time: 2020 - 2023
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
