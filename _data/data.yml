@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: raicik.zach@gmail.com
-    phone: 860 593 0476
-    website: blog.webjeda.com #do not add http://
+    phone: 860-593-0476
+    website: #do not add http://
     linkedin: zakraicik
     github: zakraicik
     telegram: # add your nickname without '@' sign
@@ -55,6 +55,17 @@ education:
     - degree: MS, Computer Science
       university: University of Pennsylvania
       time: 2020 - 2022
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Fellow (FSA)
+      university: Society of Actuaries
+      time: 2013 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
