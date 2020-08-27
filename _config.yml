@@ -3,7 +3,7 @@
 # Site Settings
 title: Zak Raicik
 url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/Me' #change it according to your repository name
 description: My professional life in a few words.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
