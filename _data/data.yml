@@ -86,7 +86,7 @@ education:
 experiences:
     - role: Director of Data Science
       time: 2018 - Present
-      company: John Hancock Financial, Boston
+      company: John Hancock Financial
       details: |
         Member of team focused on using data science to modernize underwriting in life insurance
         globally. Primarily focused on model development and evaluation.
@@ -101,7 +101,7 @@ experiences:
             quickly and efficiently pull relevant information for modeling.
     - role: Associate Actury, Insurance Product
       time: 2016 - 2018
-      company:  John Hancock Financial, Boston
+      company:  John Hancock Financial
       details: |
         Member of team focused on crea#ng business intelligence environment for strategic insurance
         product initiatives. Primarily focused on gathering and evalua#ng data to generate insights.
@@ -112,17 +112,11 @@ experiences:
             needed to power afformentioned Tableau dashboards. Previously, this
             information was only available upon request and difficult to obtain.
           - Multiple titles during tenure within department (each of increasing responsibility).
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Other Positions 
+      time: 2013 - 2015
+      company: John Hancock Financial, Travelers Insurance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Entry level roles focused on reporting.
 
 skills:
     title: Skills &amp; Proficiency
