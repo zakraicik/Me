@@ -33,13 +33,16 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Food
         link:
 
-      - item: Snowboarding
+      - item: Golf
         link:
 
-      - item: Cooking
+      - item: Skiing
+        link:
+
+      - item: Video games
         link:
 
 career-profile:
@@ -112,7 +115,7 @@ experiences:
             needed to power afformentioned Tableau dashboards. Previously, this
             information was only available upon request and difficult to obtain.
           - Multiple titles during tenure within department (each of increasing responsibility).
-    - role: Other Positions 
+    - role: Other Positions
       time: 2013 - 2015
       company: John Hancock Financial, Travelers Insurance
       details: |
@@ -122,20 +125,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & R
+        level: 99%
+
+      - name: Communication
+        level: 99%
+
+      - name: Dash, Django, Tableau and Other Visualization Tools
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 40%
