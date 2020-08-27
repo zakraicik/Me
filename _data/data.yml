@@ -125,13 +125,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & R
+      - name: Python + R
         level: 99%
 
       - name: Communication
         level: 99%
 
-      - name: Dash, Django, Tableau and Other Visualization Tools
+      - name: Dash + Tableau
         level: 98%
 
       - name: SQL
@@ -139,3 +139,6 @@ skills:
 
       - name: Java
         level: 40%
+
+      - name: Django
+        level: 35%
